@@ -10,6 +10,9 @@ contador
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6c541b9-d15a-4e7f-9c34-fb8907108e23" />
 Invertir una Palabra
 <br>
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/a0f400f1-5fe5-4b54-b7c0-d9a03ddf4b83" />
+La Lista de Compras (Menú Interactivo)
+<br>
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/391c0700-4bf0-4a2d-bfc4-9e1296d0fa4b" />
 contador de vocales
 <br>
