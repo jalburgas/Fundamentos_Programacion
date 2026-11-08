@@ -7,6 +7,11 @@ sumar dos numeros
 <br>
 contador
 <br>
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ea53bf5b-429a-4785-ad02-e5a8e0f09de7" />
+El Guardián del Club (Lógica de condición simple)
+Lógica: Validar si un dato cumple un requisito.
+<br>
+
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6c541b9-d15a-4e7f-9c34-fb8907108e23" />
 Invertir una Palabra
 <br>
