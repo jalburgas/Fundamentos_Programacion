@@ -8,17 +8,19 @@ sumar dos numeros
 contador
 <br>
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/ea53bf5b-429a-4785-ad02-e5a8e0f09de7" />
-El Guardián del Club (Lógica de condición simple)
-Lógica: Validar si un dato cumple un requisito.
+El programa le pedirá al usuario su nombre y su edad, guardará esos datos en la memoria (variables) y luego los usará para saludar y calcular en qué año nació (usando lógica simple).
 <br>
+
 El Sistema de Alarma (Lógica con operador "o")
 Lógica: Comprobar múltiples condiciones a la vez.
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/abb482e9-ffe1-4f7b-acca-6f72e947d994" />
 
 <br>
-El programa le pedirá al usuario su nombre y su edad, guardará esos datos en la memoria (variables) y luego los usará para saludar y calcular en qué año nació (usando lógica simple).
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/62e3d22e-856e-41ea-95f3-9558499abc8e" />
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/62e3d22e-856e-41ea-95f3-9558499abc8e" />
+El Guardián del Club (Lógica de condición simple)
+Lógica: Validar si un dato cumple un requisito.
+<br>
 <br>
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6c541b9-d15a-4e7f-9c34-fb8907108e23" />
 Invertir una Palabra
