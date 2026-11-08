@@ -23,6 +23,10 @@ Lógica: Comprobar múltiples condiciones a la vez.
 
 El programa le pedirá al usuario su nombre y su edad, guardará esos datos en la memoria (variables) y luego los usará para saludar y calcular en qué año nació (usando lógica simple).
 <br>
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/91788627-bd59-4da1-bf80-0485ba2cef16" />
+
+Generador de Apodos (Lógica de texto y variables)
+Lógica: Unir dos respuestas de texto para crear algo nuevo.
 <br>
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f6c541b9-d15a-4e7f-9c34-fb8907108e23" />
 Invertir una Palabra
